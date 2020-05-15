@@ -15,7 +15,7 @@ body{
 	padding: inherit; 
 	font-weight: bold; 
 	background-color: #2cb68a;
-	font-family: Georgia, Times, "Times New Roman", serif;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
 .dropdown-item{
@@ -51,7 +51,16 @@ body{
 	color: #2cb68a;
 	font-size: 26px;
 	font-weight: bold;
-	font-family: Georgia, Times, "Times New Roman", serif;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.alt_header {
+	padding-top: 15px; 
+	padding-left: 4px;
+	color: #2cb68a;
+	font-size: 36px;
+	font-weight: bold;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
 img{
